@@ -97,6 +97,6 @@ Create an issue mentioning the bug you have found
 Contact [Kenneth Muchiri](kenmucciz8@gmail.com) for further help/support
 
 ### License
-[MIT LICENSE](LICENCE)
+[MIT LICENSE](LICENSE)
 
 Copyright (c)2019 **Kenneth Muchiri**
